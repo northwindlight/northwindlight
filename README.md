@@ -2,7 +2,7 @@
 ## 你也可以叫我北风，或者北风光
 
 <!-- GitHub 统计卡片 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=northwindlight&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=northwindlight&layout=compact&theme=tokyonight)
 <!--
 **northwindlight/northwindlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
